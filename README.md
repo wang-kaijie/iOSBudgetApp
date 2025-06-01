@@ -11,8 +11,8 @@ This app allows users to:
 - Maintain an organized record of spending habits with a clean and user-friendly interface
 
 ## 🖼️ App Screenshot
-
-<img src="./screenshoot/appscreenshot.jpeg" alt="Budget App Screenshot" width="300"/>
+<img src="./screenshoot/screenshot1.png" alt="Budget App Screenshot" width="300"/>
+<img src="./screenshoot/appscreenshot2.jpeg" alt="Budget App Screenshot" width="300"/>
 
 ## 🧩 Features
 
