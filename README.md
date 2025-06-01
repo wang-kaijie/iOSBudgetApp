@@ -11,8 +11,10 @@ This app allows users to:
 - Maintain an organized record of spending habits with a clean and user-friendly interface
 
 ## 🖼️ App Screenshot
-<img src="./screenshoot/screenshot1.png" alt="Budget App Screenshot" width="300"/>
-<img src="./screenshoot/appscreenshot2.jpeg" alt="Budget App Screenshot" width="300"/>
+| ![Screenshot 1](./screenshoot/screenshot1.png) | ![Screenshot 2](./screenshoot/appscreenshot2.jpeg) |
+|:--:|:--:|
+| Budget Overview | Add Transactions |
+
 
 ## 🧩 Features
 
@@ -29,6 +31,3 @@ This app allows users to:
 - **Data Storage**: Core Data  
 - **Platform**: iOS  
 - **Minimum iOS Version**: iOS 13.0  
-
-# iOSBudgetApp
-# iOSBudgetApp
